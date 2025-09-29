@@ -1,0 +1,14 @@
+C:\Users\kevpr\Desktop\C#\Fundamentals\Algebra\bin\Debug\net9.0\Algebra.exe
+C:\Users\kevpr\Desktop\C#\Fundamentals\Algebra\bin\Debug\net9.0\Algebra.deps.json
+C:\Users\kevpr\Desktop\C#\Fundamentals\Algebra\bin\Debug\net9.0\Algebra.runtimeconfig.json
+C:\Users\kevpr\Desktop\C#\Fundamentals\Algebra\bin\Debug\net9.0\Algebra.dll
+C:\Users\kevpr\Desktop\C#\Fundamentals\Algebra\bin\Debug\net9.0\Algebra.pdb
+C:\Users\kevpr\Desktop\C#\Fundamentals\Algebra\obj\Debug\net9.0\Algebra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevpr\Desktop\C#\Fundamentals\Algebra\obj\Debug\net9.0\Algebra.AssemblyInfoInputs.cache
+C:\Users\kevpr\Desktop\C#\Fundamentals\Algebra\obj\Debug\net9.0\Algebra.AssemblyInfo.cs
+C:\Users\kevpr\Desktop\C#\Fundamentals\Algebra\obj\Debug\net9.0\Algebra.csproj.CoreCompileInputs.cache
+C:\Users\kevpr\Desktop\C#\Fundamentals\Algebra\obj\Debug\net9.0\Algebra.dll
+C:\Users\kevpr\Desktop\C#\Fundamentals\Algebra\obj\Debug\net9.0\refint\Algebra.dll
+C:\Users\kevpr\Desktop\C#\Fundamentals\Algebra\obj\Debug\net9.0\Algebra.pdb
+C:\Users\kevpr\Desktop\C#\Fundamentals\Algebra\obj\Debug\net9.0\Algebra.genruntimeconfig.cache
+C:\Users\kevpr\Desktop\C#\Fundamentals\Algebra\obj\Debug\net9.0\ref\Algebra.dll
